@@ -4,7 +4,7 @@
 - 🧑‍🎓 Master Student – Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brazil
 - 🐸 Brazilian herpertologist
 - ♻️ Ecology researcher
-- 💻 R programmer
+- 💻 R programmer & #rstats
 - 📈 Interesting in biodiversity and environmental data science
 
 #
