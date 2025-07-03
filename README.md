@@ -5,7 +5,7 @@
 - 🐸 Brazilian herpertologist
 - ♻️ Ecology researcher
 - 💻 R programmer & #rstats
-- 📈 Interesting in biodiversity and environmental data science
+- 📈 Interesting about biodiversity and environmental data science
 
 #
 
