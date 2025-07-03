@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**Edbbioeco/Edbbioeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍🎓 Bachelor Biologist – Universidade Federal de Pernambuco, Brazil
+- 🧑‍🎓 Master Student – Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brazil
+- 🐸 Brazilian herpertologist
+- ♻️ Ecology researcher
+- 💻 R programmer
+- 📈 Interesting in biodiversity and environmental data science
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Edbbioeco">
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=Edbbioeco&show_icons=true&theme=dark"/>
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edbbioeco&layout=compact&langs_count=16&theme=dark"/>
+</div>
