@@ -6,6 +6,7 @@
 - ♻️ Ecology researcher
 - 💻 R programmer & #rstats
 - 📈 Interesting about biodiversity and environmental data science
+- 📊 Bionalises founder
 
 #
 
