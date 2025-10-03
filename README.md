@@ -1,12 +1,12 @@
 # Hi there
 
-- 🧑‍🎓 Bachelor Biologist – Universidade Federal de Pernambuco, Brazil
-- 🧑‍🎓 Master Student – Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brazil
+- 🧑‍🎓 Bachelor Biologist – [Universidade Federal de Pernambuco, Brazil](https://www.ufpe.br)
+- 🧑‍🎓 Master Student – [Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brazil](https://sites.ufpe.br/ppgba)
 - 🐸 Brazilian herpertologist
-- ♻️ Ecology researcher
+- ♻️ Ecology and biodiversity researcher researcher
 - 💻 R programmer & #rstats
 - 📈 Interesting about biodiversity and environmental data science
-- 📊 Bionalises founder and Data Science consultor
+- 📊 [Bionalises founder](https://beacons.ai/bionalises) and Data Science consultor
 
 #
 
