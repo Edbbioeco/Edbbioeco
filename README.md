@@ -8,14 +8,14 @@
 - 📈 Interesting about biodiversity and environmental data science
 - 📊 [Bionalises founder](https://beacons.ai/bionalises) and Data Science consultor
 
-#
+# Github stats
 
 <div>
   <a href="https://github.com/Edbbioeco">
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=Edbbioeco&show_icons=true&theme=dark"/>
 </div>
 
-#
+# R main tools
 
 <div style="display: inline_block"><br>
   <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
@@ -25,8 +25,7 @@
   <img align="center" height="80" width="80" src="https://rspatial.github.io/terra/logo.png">
 </div>
 
-#
-
+# Contacts
 
 <div> 
   <a href = "mailto:edsonbbiologia@gmail.com"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" target="_blank"></a>
