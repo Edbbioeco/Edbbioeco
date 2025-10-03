@@ -17,12 +17,14 @@
 
 # R main tools
 
-<div style="display: inline_block"><br>
-  <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-  <img align="center" height="80" width="80" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
-  <img align="center" height="80" width="80" src="https://i.imgur.com/l531sOW.png">
-  <img align="center" height="80" width="80" src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png">
-  <img align="center" height="80" width="80" src="https://rspatial.github.io/terra/logo.png">
+<div> 
+  <a href = "https://www.r-project.org/"><img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" target="_blank"></a>
+  <a href = "https://www.tidyverse.org/" target="_blank"><img align="center" height="70" width="70" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" target="_blank"></a>
+  <a href = "https://easystats.github.io/performance" target="_blank"><img align="center" height="70" width="70" src="https://i.imgur.com/l531sOW.png" target="_blank"></a>
+  <a href = "https://github.com/ipeaGIT/geobr" target="_blank"><img align="center" height="70" width="70" src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png" target="_blank"></a>
+  <a href = "https://rspatial.github.io/terra"><img align="center" height="70" width="70" src="https://rspatial.github.io/terra/logo.png" target="_blank"></a>
+  <a href = "https://dieghernan.github.io/tidyterra"><img align="center" height="70" width="70" src="https://dieghernan.github.io/tidyterra/logo.png" target="_blank"></a>
+  <a href = "https://r-spatial.github.io/sf"><img align="center" height="70" width="70" src="https://r-graph-gallery.com/img/r-package-img/sf.png" target="_blank"></a>
 </div>
 
 # Contacts
