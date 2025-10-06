@@ -15,7 +15,7 @@
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=Edbbioeco&show_icons=true&theme=dark"/>
 </div>
 
-# R main tools
+# Main R tools
 
 <div> 
   <a href = "https://www.r-project.org/"><img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" target="_blank"></a>
