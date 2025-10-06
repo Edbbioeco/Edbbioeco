@@ -6,7 +6,7 @@
 - ♻️ Ecology and biodiversity researcher researcher
 - 💻 R programmer & #rstats
 - 📈 Interesting about biodiversity and environmental data science
-- 📊 [Bionalises founder](https://beacons.ai/bionalises) and Data Science consultor
+- 📊 [Bionalises](https://beacons.ai/bionalises) founder and Data Science consultor
 
 # Github stats
 
