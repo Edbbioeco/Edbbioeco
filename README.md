@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 Bachelor Biologist – [Universidade Federal de Pernambuco, Brazil](https://www.ufpe.br)
 - 🧑‍🎓 Master Student – [Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brazil](https://sites.ufpe.br/ppgba)
-- 🐸 Brazilian herpertologist – [Laboratório de Herpetologia (LHERP), Universidade Federal de Pernambuco](https://sites.ufpe.br/herpetologia)
+- 🐸 Brazilian herpertologist – [Laboratório de Herpetologia (LHERP), Universidade Federal de Pernambuco, Brazil](https://sites.ufpe.br/herpetologia)
 - ♻️ Ecology and biodiversity researcher researcher
 - 💻 R programmer & #rstats
 - 📈 Interesting about biodiversity and environmental data science
