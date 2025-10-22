@@ -42,4 +42,4 @@
 
 - [Analysing Canopy Openness Index Analysis with R](https://github.com/Edbbioeco/Canopy-Openness-Index-Analysis-with-R)
 - [How to download high resolution satellite images with R](https://github.com/Edbbioeco/how_to_download_satellite_images_with_R)
-- [25 #30DayMapChallenge](https://github.com/Edbbioeco/30DaysMapChallenge)
+- [2025 #30DayMapChallenge](https://github.com/Edbbioeco/30DaysMapChallenge)
