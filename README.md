@@ -19,7 +19,7 @@
 
 <div> 
   <a href = "https://www.r-project.org/"><img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" target="_blank"></a>
-  <a href = "https://www.tidyverse.org/" target="_blank"><img align="center" height="70" width="70" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" target="_blank"></a>
+  <a href = "https://www.tidyverse.org/" target="_blank"><img align="center" height="70" width="70" src="https://images.icon-icons.com/1381/PNG/512/rstudio_94807.png" target="_blank"></a>
   <a href = "https://easystats.github.io/performance" target="_blank"><img align="center" height="70" width="70" src="https://i.imgur.com/l531sOW.png" target="_blank"></a>
   <a href = "https://github.com/ipeaGIT/geobr" target="_blank"><img align="center" height="70" width="70" src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png" target="_blank"></a>
   <a href = "https://rspatial.github.io/terra"><img align="center" height="70" width="70" src="https://rspatial.github.io/terra/logo.png" target="_blank"></a>
