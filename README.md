@@ -1,9 +1,9 @@
 # Olá!
 
 - 📍 Pernambucano
-- 🧑‍🎓 Biólogo Bacharel – [Universidade Federal de Pernambuco, Brazil](https://www.ufpe.br)
-- 🧑‍🎓 Estudante de Mestrado – [Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brazil](https://sites.ufpe.br/ppgba)
-- 🐸 Herpetólogo brasileiro – [Laboratório de Herpetologia (LHERP), Universidade Federal de Pernambuco, Brazil](https://sites.ufpe.br/herpetologia)
+- 🧑‍🎓 Biólogo Bacharel – [Universidade Federal de Pernambuco, Brasil](https://www.ufpe.br)
+- 🧑‍🎓 Estudante de Mestrado – [Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brasil](https://sites.ufpe.br/ppgba)
+- 🐸 Herpetólogo brasileiro – [Laboratório de Herpetologia (LHERP), Universidade Federal de Pernambuco, Brasil](https://sites.ufpe.br/herpetologia)
 - ♻️ Pesquisador de Ecologia & Biodiversidade
 - 💻 Programdor em R & #rstats
 - 📈 Interessado em ciência de dados de biodiversidade e ambiental
