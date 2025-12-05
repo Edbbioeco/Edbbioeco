@@ -1,15 +1,15 @@
 # Hi there
 
-- 🧑‍🎓 Bachelor Biologist – [Universidade Federal de Pernambuco, Brazil](https://www.ufpe.br)
-- 🧑‍🎓 Master Student – [Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brazil](https://sites.ufpe.br/ppgba)
-- 🐸 Brazilian herpertologist – [Laboratório de Herpetologia (LHERP), Universidade Federal de Pernambuco, Brazil](https://sites.ufpe.br/herpetologia)
-- ♻️ Ecology and biodiversity researcher
-- 💻 R programmer & #rstats
-- 📈 Interesting about biodiversity and environmental data science
-- 📊 [Bionalises](https://beacons.ai/bionalises) founder & Data Science consultor and mentoring
+- 📍 Pernambucano
+- 🧑‍🎓 Biólogo Bacharel – [Universidade Federal de Pernambuco, Brazil](https://www.ufpe.br)
+- 🧑‍🎓 Estudante de Mestrado – [Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brazil](https://sites.ufpe.br/ppgba)
+- 🐸 Herpetólogo brasileiro – [Laboratório de Herpetologia (LHERP), Universidade Federal de Pernambuco, Brazil](https://sites.ufpe.br/herpetologia)
+- ♻️ Pesquisador de Ecologia & Biodiversidade
+- 💻 Programdor em R & #rstats
+- 📈 Interessado em ciência de dados de biodiversidade e ambiental
+- 📊 Fundador da [Bionalises](https://beacons.ai/bionalises), mentor e consultor de ciência de dados
 
-# Main R tools
-
+# Principais ferramentas de R
 <div> 
   <a href = "https://tidyverse.org" target="_blank"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" target="_blank"></a>
   <a href = "https://ardata-fr.github.io/flextable-book/index.html" target="_blank"><img align="center" height="70" width="70" src="https://davidgohel.github.io/flextable/logo.png" target="_blank"></a>
@@ -24,11 +24,10 @@
   <a href = "https://github.com/Edbbioeco/ordenaR" target="_blank"><img align="center" height="70" width="70" src="ordenaR.png" target="_blank"></a>
 </div>
 
-# Built Packages
-
+# Pacotes criados
 <a href = "https://github.com/Edbbioeco/ordenaR" target="_blank"><img align="center" height="210" width="210" src="ordenaR.png" target="_blank"></a>
 
-# Contacts
+# Contatos
 
 <div> 
   <a href = "mailto:edsonbbiologia@gmail.com"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" target="_blank"></a>
