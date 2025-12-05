@@ -8,13 +8,6 @@
 - 📈 Interesting about biodiversity and environmental data science
 - 📊 [Bionalises](https://beacons.ai/bionalises) founder & Data Science consultor and mentoring
 
-# Github stats
-
-<div>
-  <a href="https://github.com/Edbbioeco">
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=Edbbioeco&show_icons=true&theme=dark"/>
-</div>
-
 # Main R tools
 
 <div> 
