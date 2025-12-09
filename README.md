@@ -17,7 +17,7 @@
   <a href = "https://github.com/ipeaGIT/geobr" target="_blank"><img align="center" height="70" width="70" src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png" target="_blank"></a>
   <a href = "https://rspatial.github.io/terra"><img align="center" height="70" width="70" src="https://rspatial.github.io/terra/logo.png" target="_blank"></a>
   <a href = "https://dieghernan.github.io/tidyterra"><img align="center" height="70" width="70" src="https://dieghernan.github.io/tidyterra/logo.png" target="_blank"></a>
-  <a href = "https://r-spatial.github.io/sf"><img align="center" height="70" width="70" src="https://r-graph-gallery.com/img/r-package-img/sf.png" target="_blank"></a>
+  <a href = "https://r-spatial.github.io/sf"><img align="center" height="70" width="70" src="sf.png" target="_blank"></a>
   <a href = "https://github.com/riatelab/maptiles"><img align="center" height="70" width="70" src="https://github.com/riatelab/maptiles/blob/main/man/figures/logo.png" target="_blank"></a>
   <a href = "https://github.com/ropensci/rgbif"><img align="center" height="70" width="70" src="https://docs.ropensci.org/rgbif/logo.png" target="_blank"></a>
   <a href = "https://bluegreen-labs.github.io/appeears"><img align="center" height="70" width="70" src="https://bluegreen-labs.github.io/appeears/reference/figures/logo.png" target="_blank"></a>
