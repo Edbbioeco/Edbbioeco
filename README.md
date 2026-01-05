@@ -26,6 +26,7 @@
 
 # Pacotes criados
 <a href = "https://github.com/Edbbioeco/ordenaR" target="_blank"><img align="center" height="210" width="210" src="ordenaR.png" target="_blank"></a>
+<a href = "https://github.com/Edbbioeco/coiR" target="_blank"><img align="center" height="210" width="210" src="plot_coiR.png" target="_blank"></a>
 
 # Contatos
 
