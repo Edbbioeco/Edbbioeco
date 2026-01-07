@@ -40,7 +40,7 @@
 
 # Cheque meus principais repositórios
 
-- [Tutorial: Analysing Canopy Openness Index Analysis with R](https://github.com/Edbbioeco/Canopy-Openness-Index-Analysis-with-R)
 - [Tutorial: How to download high resolution satellite images with R](https://github.com/Edbbioeco/how_to_download_satellite_images_with_R)
 - [Tutorial: Calculating coordinates based on Azimuth degrees and distances with R](https://github.com/Edbbioeco/Calculating-coordinates-using-Azimuth-degrees-and-distances_with-R)
 - [Built package: Ordering species abundance by gradients by {ordenaR}](https://github.com/Edbbioeco/ordenaR)
+- [Built package: Analyze Canopy Openness Index by {coiR}]("https://github.com/Edbbioeco/coiR)
