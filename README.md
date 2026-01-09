@@ -38,9 +38,9 @@
   <a href = "https://orcid.org/0009-0003-9116-2020"><img align="center" height="70" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ORCID_logo_with_tagline.svg/768px-ORCID_logo_with_tagline.svg.png" target="_blank"></a>
 </div>
 
-# Cheque meus principais repositórios
+# Principais repositórios
 
-- [Tutorial: How to download high resolution satellite images with R](https://github.com/Edbbioeco/how_to_download_satellite_images_with_R)
-- [Tutorial: Calculating coordinates based on Azimuth degrees and distances with R](https://github.com/Edbbioeco/Calculating-coordinates-using-Azimuth-degrees-and-distances_with-R)
 - [Built package: Ordering species abundance by gradients by {ordenaR}](https://github.com/Edbbioeco/ordenaR)
 - [Built package: Analyze Canopy Openness Index by {coiR}](https://github.com/Edbbioeco/coiR)
+- [Tutorial: How to download high resolution satellite images with R](https://github.com/Edbbioeco/how_to_download_satellite_images_with_R)
+- [Tutorial: Calculating coordinates based on Azimuth degrees and distances with R](https://github.com/Edbbioeco/Calculating-coordinates-using-Azimuth-degrees-and-distances_with-R)
