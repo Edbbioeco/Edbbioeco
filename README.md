@@ -9,6 +9,8 @@
 - 📈 Interessado em ciência de dados de biodiversidade e ambiental
 - 📊 Fundador da [Bionalises](https://beacons.ai/bionalises), mentor e consultor de ciência de dados
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEdbbbioeco=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 # Principais ferramentas de R
 <div> 
   <a href = "https://tidyverse.org" target="_blank"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" target="_blank"></a>
