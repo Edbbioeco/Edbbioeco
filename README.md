@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/bionalises" target="_blank"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" target="_blank"></a>
   <a href = "https://beacons.ai/bionalises"><img align="center" height="70" width="70" src="logo.png" target="_blank"></a>
   <a href = "http://lattes.cnpq.br/7652604604482680"><img align="center" height="70" width="70" src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" target="_blank"></a>
-  <a href = "https://orcid.org/0009-0003-9116-2020"><img align="center" height="70" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ORCID_logo_with_tagline.svg/768px-ORCID_logo_with_tagline.svg.png" target="_blank"></a>
+  <a href = "https://orcid.org/0009-0003-9116-2020"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/960px-ORCID_iD.svg.png" target="_blank"></a>
 </div>
 
 # Principais repositórios
