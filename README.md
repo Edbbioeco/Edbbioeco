@@ -13,6 +13,7 @@
 <div> 
   <a href = "https://tidyverse.org" target="_blank"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" target="_blank"></a>
   <a href = "https://ardata-fr.github.io/flextable-book/index.html" target="_blank"><img align="center" height="70" width="70" src="https://davidgohel.github.io/flextable/logo.png" target="_blank"></a>
+  <a href = "https://github.com/rstudio/gt" target="_blank"><img align="center" height="70" width="70" src="https://github.com/rstudio/gt/blob/master/man/figures/logo-static.svg" target="_blank"></a>
   <a href = "https://easystats.github.io/performance" target="_blank"><img align="center" height="70" width="70" src="https://i.imgur.com/l531sOW.png" target="_blank"></a>
   <a href = "https://github.com/ipeaGIT/geobr" target="_blank"><img align="center" height="70" width="70" src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png" target="_blank"></a>
   <a href = "https://rspatial.github.io/terra"><img align="center" height="70" width="70" src="https://rspatial.github.io/terra/logo.png" target="_blank"></a>
