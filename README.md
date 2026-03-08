@@ -22,6 +22,7 @@
   <a href = "https://github.com/ropensci/rgbif"><img align="center" height="70" width="70" src="https://docs.ropensci.org/rgbif/logo.png" target="_blank"></a>
   <a href = "https://bluegreen-labs.github.io/appeears"><img align="center" height="70" width="70" src="https://bluegreen-labs.github.io/appeears/reference/figures/logo.png" target="_blank"></a>
   <a href = "https://usethis.r-lib.org"><img align="center" height="70" width="70" src="https://github.com/r-lib/usethis/blob/main/man/figures/logo.png" target="_blank"></a>
+  <a href = https://quarto.org"><img align="center" height="70" width="70" src="https://brisbane-geocommunity.netlify.app/posts/2022-11-03-build-blog-w-quarto/images/quarto.png" target="_blank"></a>
 </div>
 
 # Pacotes criados
