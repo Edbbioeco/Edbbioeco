@@ -45,5 +45,6 @@
 
 - [Built package: Ordering species abundance by gradients by {ordenaR}](https://github.com/Edbbioeco/ordenaR)
 - [Built package: Analyze Canopy Openness Index by {coiR}](https://github.com/Edbbioeco/coiR)
+- [Tutorial: Conectando o RStudio ao GitHub](https://github.com/Edbbioeco/conectar_github_rstudio)
 - [Tutorial: How to download high resolution satellite images with R](https://github.com/Edbbioeco/how_to_download_satellite_images_with_R)
 - [Tutorial: Calculating coordinates based on Azimuth degrees and distances with R](https://github.com/Edbbioeco/Calculating-coordinates-using-Azimuth-degrees-and-distances_with-R)
