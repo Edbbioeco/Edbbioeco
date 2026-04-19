@@ -11,40 +11,22 @@
 
 # Principais ferramentas de R
 
-<p align="left">
-  <a href="https://tidyverse.org" target="_blank"><img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png"></a>
-  <a href="https://ardata-fr.github.io/flextable-book/index.html" target="_blank"><img height="70" width="70" src="https://davidgohel.github.io/flextable/logo.png"></a>
-  <a href="https://github.com/rstudio/gt" target="_blank"><img height="70" width="70" src="https://github.com/rstudio/gt/blob/master/man/figures/logo-static.svg"></a>
-  <a href="https://easystats.github.io/performance" target="_blank"><img height="70" width="70" src="https://i.imgur.com/l531sOW.png"></a>
-  <a href="https://strengejacke.github.io/ggeffects/" target="_blank"><img height="70" width="70" src="https://strengejacke.github.io/ggeffects/logo.png"></a>
-  <a href="https://github.com/ipeaGIT/geobr" target="_blank"><img height="70" width="70" src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png"></a>
-  <a href="https://rspatial.github.io/terra" target="_blank"><img height="70" width="70" src="https://rspatial.github.io/terra/logo.png"></a>
-  <a href="https://dieghernan.github.io/tidyterra" target="_blank"><img height="70" width="70" src="https://dieghernan.github.io/tidyterra/logo.png"></a>
-  <a href="https://r-spatial.github.io/sf" target="_blank"><img height="70" width="70" src="sf.png"></a>
-  <a href="https://github.com/riatelab/maptiles" target="_blank"><img height="70" width="70" src="https://github.com/riatelab/maptiles/blob/main/man/figures/logo.png"></a>
-  <a href="https://github.com/ropensci/rgbif" target="_blank"><img height="70" width="70" src="https://docs.ropensci.org/rgbif/logo.png"></a>
-  <a href="https://bluegreen-labs.github.io/appeears" target="_blank"><img height="70" width="70" src="https://bluegreen-labs.github.io/appeears/reference/figures/logo.png"></a>
-  <a href="https://usethis.r-lib.org" target="_blank"><img height="70" width="70" src="https://github.com/r-lib/usethis/blob/main/man/figures/logo.png"></a>
-  <a href="https://quarto.org" target="_blank"><img height="70" width="70" src="https://brisbane-geocommunity.netlify.app/posts/2022-11-03-build-blog-w-quarto/images/quarto.png"></a>
-</p>
+| | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://tidyverse.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" width="70"></a> | <a href="https://ardata-fr.github.io/flextable-book/index.html"><img src="https://davidgohel.github.io/flextable/logo.png" width="70"></a> | <a href="https://github.com/rstudio/gt"><img src="https://github.com/rstudio/gt/blob/master/man/figures/logo-static.svg" width="70"></a> | <a href="https://easystats.github.io/performance"><img src="https://i.imgur.com/l531sOW.png" width="70"></a> | <a href="https://strengejacke.github.io/ggeffects/"><img src="https://strengejacke.github.io/ggeffects/logo.png" width="70"></a> | <a href="https://github.com/ipeaGIT/geobr"><img src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png" width="70"></a> | <a href="https://rspatial.github.io/terra"><img src="https://rspatial.github.io/terra/logo.png" width="70"></a> |
+| <a href="https://dieghernan.github.io/tidyterra"><img src="https://dieghernan.github.io/tidyterra/logo.png" width="70"></a> | <a href="https://r-spatial.github.io/sf"><img src="sf.png" width="70"></a> | <a href="https://github.com/riatelab/maptiles"><img src="https://github.com/riatelab/maptiles/blob/main/man/figures/logo.png" width="70"></a> | <a href="https://github.com/ropensci/rgbif"><img src="https://docs.ropensci.org/rgbif/logo.png" width="70"></a> | <a href="https://bluegreen-labs.github.io/appeears"><img src="https://bluegreen-labs.github.io/appeears/reference/figures/logo.png" width="70"></a> | <a href="https://usethis.r-lib.org"><img src="https://github.com/r-lib/usethis/blob/main/man/figures/logo.png" width="70"></a> | <a href="https://quarto.org"><img src="https://brisbane-geocommunity.netlify.app/posts/2022-11-03-build-blog-w-quarto/images/quarto.png" width="70"></a> |
 
 # Pacotes criados
 
-<p align="left">
-  <a href="https://github.com/Edbbioeco/ordenaR" target="_blank"><img height="210" width="210" src="ordenaR.png"></a>
-  <a href="https://github.com/Edbbioeco/coiR" target="_blank"><img height="210" width="210" src="logo_coiR.png"></a>
-</p>
+| ordenaR | coiR |
+| :---: | :---: |
+| <a href="https://github.com/Edbbioeco/ordenaR"><img src="ordenaR.png" width="210"></a> | <a href="https://github.com/Edbbioeco/coiR"><img src="logo_coiR.png" width="210"></a> |
 
 # Contatos
 
-<p align="left"> 
-  <a href="mailto:edsonbbiologia@gmail.com" target="_blank"><img height="70" width="70" src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png"></a>
-  <a href="https://www.instagram.com/edbbio" target="_blank"><img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
-  <a href="https://www.instagram.com/bionalises" target="_blank"><img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
-  <a href="https://beacons.ai/bionalises" target="_blank"><img height="70" width="70" src="logo.png"></a>
-  <a href="http://lattes.cnpq.br/7652604604482680" target="_blank"><img height="70" width="70" src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png"></a>
-  <a href="https://orcid.org/0009-0003-9116-2020" target="_blank"><img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/960px-ORCID_iD.svg.png"></a>
-</p>
+| Email | Instagram do perfil de consultorias | Instagram pessoal | Link do formulário de consultoria | ORCID | Lattes |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="mailto:edsonbbiologia@gmail.com"><img src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png" width="70"></a> | <a href="https://www.instagram.com/edbbio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="70"></a> | <a href="https://www.instagram.com/bionalises"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="70"></a> | <a href="https://beacons.ai/bionalises"><img src="logo.png" width="70"></a> | <a href="http://lattes.cnpq.br/7652604604482680"><img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="70"></a> | <a href="https://orcid.org/0009-0003-9116-2020"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/960px-ORCID_iD.svg.png" width="70"></a> |
 
 # Principais repositórios
 
