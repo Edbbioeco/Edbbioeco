@@ -11,10 +11,20 @@
 
 # Principais ferramentas de R
 
-| | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://tidyverse.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" width="70"></a> | <a href="https://ardata-fr.github.io/flextable-book/index.html"><img src="https://davidgohel.github.io/flextable/logo.png" width="70"></a> | <a href="https://github.com/rstudio/gt"><img src="https://github.com/rstudio/gt/blob/master/man/figures/logo-static.svg" width="70"></a> | <a href="https://easystats.github.io/performance"><img src="https://i.imgur.com/l531sOW.png" width="70"></a> | <a href="https://strengejacke.github.io/ggeffects/"><img src="https://strengejacke.github.io/ggeffects/logo.png" width="70"></a> | <a href="https://github.com/ipeaGIT/geobr"><img src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png" width="70"></a> | <a href="https://rspatial.github.io/terra"><img src="https://rspatial.github.io/terra/logo.png" width="70"></a> |
-| <a href="https://dieghernan.github.io/tidyterra"><img src="https://dieghernan.github.io/tidyterra/logo.png" width="70"></a> | <a href="https://r-spatial.github.io/sf"><img src="sf.png" width="70"></a> | <a href="https://github.com/riatelab/maptiles"><img src="https://github.com/riatelab/maptiles/blob/main/man/figures/logo.png" width="70"></a> | <a href="https://github.com/ropensci/rgbif"><img src="https://docs.ropensci.org/rgbif/logo.png" width="70"></a> | <a href="https://bluegreen-labs.github.io/appeears"><img src="https://bluegreen-labs.github.io/appeears/reference/figures/logo.png" width="70"></a> | <a href="https://usethis.r-lib.org"><img src="https://github.com/r-lib/usethis/blob/main/man/figures/logo.png" width="70"></a> | <a href="https://quarto.org"><img src="https://brisbane-geocommunity.netlify.app/posts/2022-11-03-build-blog-w-quarto/images/quarto.png" width="70"></a> |
+<a href="https://tidyverse.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" width="70"></a>
+<a href="https://ardata-fr.github.io/flextable-book/index.html"><img src="https://davidgohel.github.io/flextable/logo.png" width="70"></a>
+<a href="https://github.com/rstudio/gt"><img src="https://github.com/rstudio/gt/blob/master/man/figures/logo-static.svg" width="70"></a>
+<a href="https://easystats.github.io/performance"><img src="https://i.imgur.com/l531sOW.png" width="70"></a>
+<a href="https://strengejacke.github.io/ggeffects/"><img src="https://strengejacke.github.io/ggeffects/logo.png" width="70"></a>
+<a href="https://github.com/ipeaGIT/geobr"><img src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png" width="70"></a>
+<a href="https://rspatial.github.io/terra"><img src="https://rspatial.github.io/terra/logo.png" width="70"></a>
+<a href="https://dieghernan.github.io/tidyterra"><img src="https://dieghernan.github.io/tidyterra/logo.png" width="70"></a>
+<a href="https://r-spatial.github.io/sf"><img src="sf.png" width="70"></a>
+<a href="https://github.com/riatelab/maptiles"><img src="https://github.com/riatelab/maptiles/blob/main/man/figures/logo.png" width="70"></a>
+<a href="https://github.com/ropensci/rgbif"><img src="https://docs.ropensci.org/rgbif/logo.png" width="70"></a>
+<a href="https://bluegreen-labs.github.io/appeears"><img src="https://bluegreen-labs.github.io/appeears/reference/figures/logo.png" width="70"></a>
+<a href="https://usethis.r-lib.org"><img src="https://github.com/r-lib/usethis/blob/main/man/figures/logo.png" width="70"></a>
+<a href="https://quarto.org"><img src="https://brisbane-geocommunity.netlify.app/posts/2022-11-03-build-blog-w-quarto/images/quarto.png" width="70"></a>
 
 # Pacotes criados
 
