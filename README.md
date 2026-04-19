@@ -5,42 +5,46 @@
 - 🧑‍🎓 Estudante de Mestrado – [Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brasil](https://sites.ufpe.br/ppgba)
 - 🐸 Herpetólogo brasileiro – [Laboratório de Herpetologia (LHERP), Universidade Federal de Pernambuco, Brasil](https://sites.ufpe.br/herpetologia)
 - ♻️ Pesquisador de Ecologia & Biodiversidade
-- 💻 Programdor em R & #rstats
+- 💻 Programador em R & #rstats
 - 📈 Interessado em ciência de dados de biodiversidade e ambiental
 - 📊 Fundador da [Bionalises](https://beacons.ai/bionalises), mentor e consultor de ciência de dados
 
 # Principais ferramentas de R
 
-<a href = "https://tidyverse.org" target="_blank"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" target="_blank"></a>
-<a href = "https://ardata-fr.github.io/flextable-book/index.html" target="_blank"><img align="center" height="70" width="70" src="https://davidgohel.github.io/flextable/logo.png" target="_blank"></a>
-<a href = "https://github.com/rstudio/gt" target="_blank"><img align="center" height="70" width="70" src="https://github.com/rstudio/gt/blob/master/man/figures/logo-static.svg" target="_blank"></a>
-<a href = "https://easystats.github.io/performance" target="_blank"><img align="center" height="70" width="70" src="https://i.imgur.com/l531sOW.png" target="_blank"></a>
-<a href = "https://strengejacke.github.io/ggeffects/" target="_blank"><img align="center" height="70" width="70" src="https://strengejacke.github.io/ggeffects/logo.png" target="_blank"></a>
-<a href = "https://github.com/ipeaGIT/geobr" target="_blank"><img align="center" height="70" width="70" src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png" target="_blank"></a>
-<a href = "https://rspatial.github.io/terra"><img align="center" height="70" width="70" src="https://rspatial.github.io/terra/logo.png" target="_blank"></a>
-<a href = "https://dieghernan.github.io/tidyterra"><img align="center" height="70" width="70" src="https://dieghernan.github.io/tidyterra/logo.png" target="_blank"></a>
-<a href = "https://r-spatial.github.io/sf"><img align="center" height="70" width="70" src="sf.png" target="_blank"></a>
-<a href = "https://github.com/riatelab/maptiles"><img align="center" height="70" width="70" src="https://github.com/riatelab/maptiles/blob/main/man/figures/logo.png" target="_blank"></a>
-<a href = "https://github.com/ropensci/rgbif"><img align="center" height="70" width="70" src="https://docs.ropensci.org/rgbif/logo.png" target="_blank"></a>
-<a href = "https://bluegreen-labs.github.io/appeears"><img align="center" height="70" width="70" src="https://bluegreen-labs.github.io/appeears/reference/figures/logo.png" target="_blank"></a>
-<a href = "https://usethis.r-lib.org"><img align="center" height="70" width="70" src="https://github.com/r-lib/usethis/blob/main/man/figures/logo.png" target="_blank"></a>
-<a href = "https://quarto.org"><img align="center" height="70" width="70" src="https://brisbane-geocommunity.netlify.app/posts/2022-11-03-build-blog-w-quarto/images/quarto.png" target="_blank"></a>
+<p align="left">
+  <a href="https://tidyverse.org" target="_blank"><img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png"></a>
+  <a href="https://ardata-fr.github.io/flextable-book/index.html" target="_blank"><img height="70" width="70" src="https://davidgohel.github.io/flextable/logo.png"></a>
+  <a href="https://github.com/rstudio/gt" target="_blank"><img height="70" width="70" src="https://github.com/rstudio/gt/blob/master/man/figures/logo-static.svg"></a>
+  <a href="https://easystats.github.io/performance" target="_blank"><img height="70" width="70" src="https://i.imgur.com/l531sOW.png"></a>
+  <a href="https://strengejacke.github.io/ggeffects/" target="_blank"><img height="70" width="70" src="https://strengejacke.github.io/ggeffects/logo.png"></a>
+  <a href="https://github.com/ipeaGIT/geobr" target="_blank"><img height="70" width="70" src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png"></a>
+  <a href="https://rspatial.github.io/terra" target="_blank"><img height="70" width="70" src="https://rspatial.github.io/terra/logo.png"></a>
+  <a href="https://dieghernan.github.io/tidyterra" target="_blank"><img height="70" width="70" src="https://dieghernan.github.io/tidyterra/logo.png"></a>
+  <a href="https://r-spatial.github.io/sf" target="_blank"><img height="70" width="70" src="sf.png"></a>
+  <a href="https://github.com/riatelab/maptiles" target="_blank"><img height="70" width="70" src="https://github.com/riatelab/maptiles/blob/main/man/figures/logo.png"></a>
+  <a href="https://github.com/ropensci/rgbif" target="_blank"><img height="70" width="70" src="https://docs.ropensci.org/rgbif/logo.png"></a>
+  <a href="https://bluegreen-labs.github.io/appeears" target="_blank"><img height="70" width="70" src="https://bluegreen-labs.github.io/appeears/reference/figures/logo.png"></a>
+  <a href="https://usethis.r-lib.org" target="_blank"><img height="70" width="70" src="https://github.com/r-lib/usethis/blob/main/man/figures/logo.png"></a>
+  <a href="https://quarto.org" target="_blank"><img height="70" width="70" src="https://brisbane-geocommunity.netlify.app/posts/2022-11-03-build-blog-w-quarto/images/quarto.png"></a>
+</p>
 
 # Pacotes criados
 
-<a href = "https://github.com/Edbbioeco/ordenaR" target="_blank"><img align="center" height="210" width="210" src="ordenaR.png" target="_blank"></a>
-<a href = "https://github.com/Edbbioeco/coiR" target="_blank"><img align="center" height="210" width="210" src="logo_coiR.png" target="_blank"></a>
+<p align="left">
+  <a href="https://github.com/Edbbioeco/ordenaR" target="_blank"><img height="210" width="210" src="ordenaR.png"></a>
+  <a href="https://github.com/Edbbioeco/coiR" target="_blank"><img height="210" width="210" src="logo_coiR.png"></a>
+</p>
 
 # Contatos
 
-<div> 
-  <a href = "mailto:edsonbbiologia@gmail.com"><img align="center" height="70" width="70" src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank"></a>
-  <a href = "https://www.instagram.com/edbbio" target="_blank"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" target="_blank"></a>
-  <a href = "https://www.instagram.com/bionalises" target="_blank"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" target="_blank"></a>
-  <a href = "https://beacons.ai/bionalises"><img align="center" height="70" width="70" src="logo.png" target="_blank"></a>
-  <a href = "http://lattes.cnpq.br/7652604604482680"><img align="center" height="70" width="70" src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" target="_blank"></a>
-  <a href = "https://orcid.org/0009-0003-9116-2020"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/960px-ORCID_iD.svg.png" target="_blank"></a>
-</div>
+<p align="left"> 
+  <a href="mailto:edsonbbiologia@gmail.com" target="_blank"><img height="70" width="70" src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png"></a>
+  <a href="https://www.instagram.com/edbbio" target="_blank"><img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
+  <a href="https://www.instagram.com/bionalises" target="_blank"><img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
+  <a href="https://beacons.ai/bionalises" target="_blank"><img height="70" width="70" src="logo.png"></a>
+  <a href="http://lattes.cnpq.br/7652604604482680" target="_blank"><img height="70" width="70" src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png"></a>
+  <a href="https://orcid.org/0009-0003-9116-2020" target="_blank"><img height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/960px-ORCID_iD.svg.png"></a>
+</p>
 
 # Principais repositórios
 
