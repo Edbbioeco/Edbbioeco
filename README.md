@@ -34,7 +34,7 @@
 
 # Contatos
 
-| Email | Instagram pessoal | Instagram do perfil de consultorias | Link do formulário de consultoria | Lattes | ORCID |
+| Email | Perfil pessoal | Perfil de consultorias | Formulário de consultorias | Lattes | ORCID |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <a href="mailto:edsonbbiologia@gmail.com"><img src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png" width="70"></a> | <a href="https://www.instagram.com/edbbio"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="70"></a> | <a href="https://www.instagram.com/bionalises"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="70"></a> | <a href="https://beacons.ai/bionalises"><img src="logo.png" width="70"></a> | <a href="http://lattes.cnpq.br/7652604604482680"><img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="70"></a> | <a href="https://orcid.org/0009-0003-9116-2020"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/960px-ORCID_iD.svg.png" width="70"></a> |
 
