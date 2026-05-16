@@ -11,7 +11,7 @@
 
 # GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=edbbioeco&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=edbbioeco&theme=dracula&hide_border=true&locale=pt_BR&background=FF5B5B00" alt="GitHub Streak" /></a>
 
 # Principais ferramentas de R
 
