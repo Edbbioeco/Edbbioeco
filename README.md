@@ -9,6 +9,10 @@
 - 📈 Interessado em ciência de dados de biodiversidade e ambiental
 - 📊 Fundador da [Bionalises](https://beacons.ai/bionalises), mentor e consultor de ciência de dados
 
+# GitHub Stats
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=edbbioeco&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+
 # Principais ferramentas de R
 
 <a href="https://tidyverse.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" width="70"></a>
