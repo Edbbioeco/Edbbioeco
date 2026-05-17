@@ -11,6 +11,8 @@
 
 # GitHub Stats
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Edbbioeco&theme=dracula&locale=pt_BR&border=FF555500&stroke=FF5555&ring=BD93F9&fire=FF79C6&currStreakNum=F1FA8C&sideNums=F1FA8C&currStreakLabel=50FA7B&sideLabels=50FA7B&dates=8BE9FD&excludeDaysLabel=EB5454&background=FFFFFF00" alt="GitHub Streak" /></a>
+
 # Principais ferramentas de R
 
 <a href="https://tidyverse.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" width="70"></a>
