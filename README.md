@@ -9,6 +9,13 @@
 - 📈 Interessado em ciência de dados de biodiversidade e ambiental
 - 📊 Fundador da [Bionalises](https://beacons.ai/bionalises), mentor e consultor de ciência de dados
 
+# GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edbbioeco&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Edbbioeco&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edbbioeco&theme=dracula)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Edbbioeco&bg_color=0d1117&color=9be9a8&line=40c463&point=9be9a8&custom_title=Edbbioeco%20last%20month%20contribution)
+
 # Principais ferramentas de R
 
 <a href="https://tidyverse.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidyverse_hex_logo.svg/500px-Tidyverse_hex_logo.svg.png" width="70"></a>
