@@ -11,8 +11,8 @@
 
 # GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edbbioeco&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edbbioeco&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edbbioeco&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edbbioeco&theme=github_dark)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Edbbioeco&bg_color=0d1117&color=9be9a8&line=40c463&point=9be9a8&area=true&area_color=40c463&custom_title=Edbbioeco%20last%20month%20contribution)
 
 # Principais ferramentas de R
