@@ -27,6 +27,7 @@
 <a href="https://dieghernan.github.io/tidyterra"><img src="https://dieghernan.github.io/tidyterra/logo.png" width="70"></a>
 <a href="https://r-spatial.github.io/sf"><img src="sf.png" width="70"></a>
 <a href="https://github.com/riatelab/maptiles"><img src="https://github.com/riatelab/maptiles/blob/main/man/figures/logo.png" width="70"></a>
+<a href="https://zivankaraman.github.io/CDSE/index.html"><img src="https://zivankaraman.github.io/CDSE/logo.png" width="70"></a>
 <a href="https://github.com/ropensci/rgbif"><img src="https://docs.ropensci.org/rgbif/logo.png" width="70"></a>
 <a href="https://bluegreen-labs.github.io/appeears"><img src="https://bluegreen-labs.github.io/appeears/reference/figures/logo.png" width="70"></a>
 <a href="https://usethis.r-lib.org"><img src="https://github.com/r-lib/usethis/blob/main/man/figures/logo.png" width="70"></a>
