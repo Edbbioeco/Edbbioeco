@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.io/Edbbioeco/about.html</loc>
+    <loc>https://edbbioeco.github.io/Edbbioeco/posts/ordenaR R package/index.html</loc>
+    <lastmod>2026-06-14T22:47:05.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edbbioeco.github.io/Edbbioeco/index.html</loc>
+    <lastmod>2026-06-14T22:58:46.933Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edbbioeco.github.io/Edbbioeco/about.html</loc>
     <lastmod>2026-06-14T23:28:33.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edbbioeco.github.io/Edbbioeco/posts/coiR R package/index.html</loc>
+    <lastmod>2026-06-14T22:47:29.147Z</lastmod>
   </url>
 </urlset>

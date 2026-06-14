@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Edbbio</title>
-<link>https://github.io/Edbbioeco/</link>
-<atom:link href="https://github.io/Edbbioeco/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://edbbioeco.github.io/Edbbioeco/</link>
+<atom:link href="https://edbbioeco.github.io/Edbbioeco/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.27</generator>
 <lastBuildDate>Sun, 14 Jun 2026 03:00:00 GMT</lastBuildDate>
 <item>
   <title>ordenaR R package</title>
   <dc:creator>Edson Silva-júnior</dc:creator>
-  <link>https://github.io/Edbbioeco/posts/ordenaR R package/</link>
+  <link>https://edbbioeco.github.io/Edbbioeco/posts/ordenaR R package/</link>
   <description><![CDATA[ 
 
 
@@ -30,14 +30,14 @@
 
  ]]></description>
   <category>code</category>
-  <guid>https://github.io/Edbbioeco/posts/ordenaR R package/</guid>
+  <guid>https://edbbioeco.github.io/Edbbioeco/posts/ordenaR R package/</guid>
   <pubDate>Sun, 14 Jun 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://github.io/Edbbioeco/posts/ordenaR R package/ordenaR.png" medium="image" type="image/png" height="167" width="144"/>
+  <media:content url="https://edbbioeco.github.io/Edbbioeco/posts/ordenaR R package/ordenaR.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
   <title>coiR R package</title>
   <dc:creator>Edson Silva-Júnior</dc:creator>
-  <link>https://github.io/Edbbioeco/posts/coiR R package/</link>
+  <link>https://edbbioeco.github.io/Edbbioeco/posts/coiR R package/</link>
   <description><![CDATA[ 
 
 
@@ -53,9 +53,9 @@
 
  ]]></description>
   <category>code</category>
-  <guid>https://github.io/Edbbioeco/posts/coiR R package/</guid>
+  <guid>https://edbbioeco.github.io/Edbbioeco/posts/coiR R package/</guid>
   <pubDate>Thu, 11 Jun 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://github.io/Edbbioeco/posts/coiR R package/logo_coiR.png" medium="image" type="image/png" height="167" width="144"/>
+  <media:content url="https://edbbioeco.github.io/Edbbioeco/posts/coiR R package/logo_coiR.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 </channel>
 </rss>
