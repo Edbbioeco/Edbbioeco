@@ -4,7 +4,7 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://github.io/Edbbioeco 
+  site-url: https://edbbioeco.github.io/Edbbioeco
   title: "Edbbio"
   navbar:
     right:
