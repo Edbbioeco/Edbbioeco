@@ -1,0 +1,9 @@
+---
+title: "coiR R package"
+author: "Edson Silva-Júnior"
+date: "2026-06-11"
+categories: [code]
+image: "logo_coiR.png"
+---
+
+# coiR R ![](logo_coiR.png)

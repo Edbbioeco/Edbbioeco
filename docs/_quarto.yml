@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://github.io/Edbbioeco 
+  title: "Edbbio"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/Edbbioeco
+      - icon: instagram
+        href: https://instagram.com/Edbbio
+      - icon: instagram
+        href: https://instagram.com/bionalises
+format:
+  html:
+    theme:
+      light: zephyr
+      dark: darkly
+    css: styles.css
+
+editor: visual
+

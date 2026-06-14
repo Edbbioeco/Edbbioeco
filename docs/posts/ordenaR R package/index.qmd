@@ -1,0 +1,9 @@
+---
+title: "ordenaR R package"
+author: "Edson Silva-júnior"
+date: "2026-06-14"
+categories: [code]
+image: "ordenaR.png"
+---
+
+# ordenaR R ![](ordenaR.png)
