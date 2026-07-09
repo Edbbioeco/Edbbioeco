@@ -2,7 +2,7 @@
 
 - 📍 Pernambucano
 - 🧑‍🎓 Biólogo Bacharel – [Universidade Federal de Pernambuco, Brasil](https://www.ufpe.br)
-- 🧑‍🎓 Estudante de Mestrado – [Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brasil](https://sites.ufpe.br/ppgba)
+- 🧑‍🎓 Mestre em Biologia Animal – [Programa de Pós-Graduação em Biologia Animal, Universidade Federal de Pernambuco, Brasil](https://sites.ufpe.br/ppgba)
 - 🐸 Herpetólogo brasileiro – [Laboratório de Herpetologia (LHERP), Universidade Federal de Pernambuco, Brasil](https://sites.ufpe.br/herpetologia)
 - ♻️ Pesquisador de Ecologia & Biodiversidade
 - 💻 Programador em R & #rstats
